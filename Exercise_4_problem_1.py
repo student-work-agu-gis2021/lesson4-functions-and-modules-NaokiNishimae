@@ -88,8 +88,10 @@ def fahr_to_celsius(temp_fahrenheit):
 # Write your answers below:
 
 # YOUR ANSWER HERE. Write your answers as comments
-#
-#
+"""
+1.The concept of function became clear to me
+2.The advantage of using a function is that it can handle not only one event but also various events.
+"""
 #
 #
 
