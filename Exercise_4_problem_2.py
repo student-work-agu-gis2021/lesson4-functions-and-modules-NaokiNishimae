@@ -26,7 +26,7 @@
 
 # YOUR CODE HERE to define temp_classifier
 def temp_classifier(temp_celsius):
-  """"
+  """
   accepts a tempreture value in Celsius that will be reclassified into integer numbers 0,1,2,3 based on following criteria
   parameter:temp_celsius
   return:Classiffied number(0,1,2,3)
